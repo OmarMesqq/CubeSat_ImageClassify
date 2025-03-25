@@ -31,7 +31,9 @@ jsonschema-specifications==2024.10.1
 jupyter_client==8.6.2
 jupyter_core==5.7.2
 keras==3.5.0
+keras-tuner==1.4.7
 kiwisolver==1.4.5
+kt-legacy==1.0.5
 lazy_loader==0.4
 libclang==18.1.1
 Markdown==3.7
